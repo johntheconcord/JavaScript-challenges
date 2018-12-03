@@ -1,6 +1,5 @@
 
 
-// Test to see if Git will push repository back to Github 
 
 /* 1. Reversing a String using Built-in functions in JavaScript */
 
